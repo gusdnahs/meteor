@@ -310,7 +310,7 @@ h1.logo {
 #section2 {
     width: 1320px;
     margin: 0 auto;
-    height: 2290px;
+    height: 2190px;
     display: block;
     padding-top:100px;
 }
@@ -353,6 +353,7 @@ h2 {
     margin: 0 auto;
     height: 1880px;
     display: block;
+    padding-top:100px;
     /* background-color: antiquewhite; */
 }
 
