@@ -212,10 +212,6 @@ h1.logo {
     text-align: center;
 }
 
-.section1 a:hover {
-    border-bottom: #F5D286 5px solid;
-}
-
 .section2 {
     width: 1320px;
     height: 880px;
