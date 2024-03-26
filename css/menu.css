@@ -221,7 +221,7 @@ h1.logo {
 }
 
 .section1 {
-    height: 932px;
+    height: 832px;
 }
 
 .section1 p {
@@ -312,6 +312,7 @@ h1.logo {
     margin: 0 auto;
     height: 2290px;
     display: block;
+    padding-top:100px;
 }
 
 h2 {
