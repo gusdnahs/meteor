@@ -210,7 +210,8 @@ h1.logo {
     width: 1320px;
     margin: 0 auto;
     text-align: center;
-    padding-top: 209px;
+    padding-top: 109px;
+    margin-top: 100px;
     font-size: 59px;
     font-weight: 450;
 }
